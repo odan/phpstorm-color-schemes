@@ -12,6 +12,10 @@ Minimalistic Light colour scheme for PhpStorm
 
 In PhpStorm, go to `Settings > Editor > Color Scheme` press the little cog next to the scheme selector, and choose `Import Scheme`.
 
+## Similar Color Schemas
+
+* https://github.com/freekmurze/phpstorm-color-schemes
+
 ## Contributing
 
 This theme is still a work in progress. Feel free to send PRs and open issues.
