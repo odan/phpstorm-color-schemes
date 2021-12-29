@@ -15,6 +15,7 @@ In PhpStorm, go to `Settings > Editor > Color Scheme` press the little cog next 
 ## Similar Color Schemes
 
 * https://github.com/freekmurze/phpstorm-color-schemes
+* https://plugins.jetbrains.com/plugin/12271-github-3-color-scheme
 
 ## Contributing
 
