@@ -1,4 +1,4 @@
-# PhphStorm Github Blue Light Theme
+# PhphStorm Blue Light Theme
 
 Minimalistic Light colour scheme for PhpStorm
 
