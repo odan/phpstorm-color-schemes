@@ -12,12 +12,6 @@ Minimalistic light colour scheme for PhpStorm.
 
 <img src="https://user-images.githubusercontent.com/781074/126898746-00d9e431-0535-4b7f-8472-4aaa16fc6e73.png" width="600"/>
 
-## Obsidian Dark
-
-**PHP**
-
-![image](https://user-images.githubusercontent.com/781074/147874173-cfb61cd7-2f9e-4b8b-b202-1848ec770ce5.png)
-
 ## One Dark Vivid Pro
 
 Inspired by `One Dark Vivid` and Visual Studio Code `One Dark Pro Darker`.
@@ -29,6 +23,12 @@ Inspired by `One Dark Vivid` and Visual Studio Code `One Dark Pro Darker`.
 **HTML**
 
 ![image](https://user-images.githubusercontent.com/781074/147879093-5e5240a6-3eba-40d6-ab7e-8fcbbfd71b90.png)
+
+## Obsidian Dark
+
+**PHP**
+
+![image](https://user-images.githubusercontent.com/781074/147874173-cfb61cd7-2f9e-4b8b-b202-1848ec770ce5.png)
 
 ## Installation
 
