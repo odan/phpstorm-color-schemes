@@ -1,9 +1,9 @@
 <scheme name="GitHub Blue Light" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2021-07-25T14:23:55</property>
+    <property name="created">2022-01-02T12:42:58</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2021.1.4.0.0</property>
-    <property name="modified">2021-07-25T14:24:07</property>
+    <property name="ideVersion">2021.2.4.0.0</property>
+    <property name="modified">2022-01-02T12:43:04</property>
     <property name="originalScheme">GitHub Blue Light</property>
   </metaInfo>
   <colors>
@@ -796,6 +796,11 @@
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="5cc5" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="BACKGROUND" value="f3f3f3" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
