@@ -1,10 +1,10 @@
 # PhphStorm Color Themes
 
-# Blue Light Theme
+## Blue Light Theme
 
-Minimalistic light colour scheme for PhpStorm
+Minimalistic light colour scheme for PhpStorm.
 
-## Preview
+Preview
 
 <img src="https://user-images.githubusercontent.com/781074/126898689-ad613e47-ee08-4671-bd76-898a8811530e.png" width="600"/>
 
