@@ -1,10 +1,10 @@
 <scheme name="One Dark Vivid Pro" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2022-01-02T15:26:28</property>
+    <property name="created">2022-01-03T15:41:15</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.2.4.0.0</property>
-    <property name="modified">2022-01-02T15:26:35</property>
-    <property name="originalScheme">One Dark Vivid</property>
+    <property name="modified">2022-01-03T15:41:22</property>
+    <property name="originalScheme">One Dark Vivid Pro</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="89ca78" />
@@ -145,9 +145,7 @@
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="743d3d" />
-      </value>
+      <value />
     </option>
     <option name="BUILDOUT.KEY">
       <value>
@@ -555,7 +553,7 @@
     </option>
     <option name="DEBUGGER_INLINED_VALUES_MODIFIED">
       <value>
-        <option name="FOREGROUND" value="ff8c00" />
+        <option name="FOREGROUND" value="21252b" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -821,8 +819,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="c7c7ff" />
+        <option name="BACKGROUND" value="93d67" />
       </value>
     </option>
     <option name="FIRST SYMBOL IN LIST">
