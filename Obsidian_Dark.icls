@@ -1,10 +1,10 @@
 <scheme name="Obsidian Dark" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2022-01-12T12:40:12</property>
+    <property name="created">2022-01-12T12:45:00</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.2.4.0.0</property>
-    <property name="modified">2022-01-12T12:40:18</property>
+    <property name="modified">2022-01-12T12:45:06</property>
     <property name="originalScheme">Obsidian Dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Liberation Mono" />
@@ -75,37 +75,31 @@
     <option name="CSS.CLASS_NAME">
       <value>
         <option name="FOREGROUND" value="93c763" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CSS.COLOR">
       <value>
         <option name="FOREGROUND" value="a082bd" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CSS.FUNCTION">
       <value>
         <option name="FOREGROUND" value="e0e2e4" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CSS.HASH">
       <value>
         <option name="FOREGROUND" value="d5ab55" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CSS.IDENT">
       <value>
         <option name="FOREGROUND" value="e0e2e4" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CSS.KEYWORD">
       <value>
         <option name="FOREGROUND" value="a082bd" />
-        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -122,37 +116,31 @@
     <option name="CSS.PROPERTY_NAME">
       <value>
         <option name="FOREGROUND" value="678cb1" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CSS.PSEUDO">
       <value>
         <option name="FOREGROUND" value="678cb1" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CSS.TAG_NAME">
       <value>
         <option name="FOREGROUND" value="93c763" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CSS.UNICODE.RANGE">
       <value>
         <option name="FOREGROUND" value="a082bd" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CSS.URL">
       <value>
         <option name="FOREGROUND" value="e1e2cf" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="4aafd4" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES">
@@ -174,7 +162,6 @@
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="678cb1" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_BRACES">
@@ -200,7 +187,6 @@
     <option name="DEFAULT_ENTITY">
       <value>
         <option name="FOREGROUND" value="858585" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
@@ -209,13 +195,17 @@
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
         <option name="FOREGROUND" value="678cb1" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="93c763" />
-        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_LABEL">
+      <value>
+        <option name="EFFECT_COLOR" value="808080" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
@@ -299,13 +289,11 @@
     <option name="EL.BOUNDS">
       <value>
         <option name="FOREGROUND" value="91add2" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="EL.KEYWORD">
       <value>
         <option name="FOREGROUND" value="91add2" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="EL.NUMBER">
@@ -316,7 +304,6 @@
     <option name="EL.STRING">
       <value>
         <option name="FOREGROUND" value="ec7600" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
@@ -329,7 +316,6 @@
       <value>
         <option name="FOREGROUND" value="0" />
         <option name="BACKGROUND" value="c3c3c3" />
-        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -351,19 +337,16 @@
     <option name="GROOVY_KEYWORD">
       <value>
         <option name="FOREGROUND" value="93c763" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="GString">
       <value>
         <option name="FOREGROUND" value="ec7600" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="678cb1" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
@@ -374,7 +357,6 @@
     <option name="HTML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="a082bd" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="HTML_TAG">
@@ -385,7 +367,6 @@
     <option name="HTML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="93c763" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
@@ -449,7 +430,6 @@
     <option name="Instance field">
       <value>
         <option name="FOREGROUND" value="678cb1" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="Instance property reference ID">
@@ -503,13 +483,11 @@
     <option name="JAVA_STRING">
       <value>
         <option name="FOREGROUND" value="ec7600" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JAVA_VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="763900" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.BADCHARACTER">
@@ -539,9 +517,7 @@
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
+      <value />
     </option>
     <option name="JS.INVALID_STRING_ESCAPE">
       <value>
@@ -551,7 +527,6 @@
     <option name="JS.KEYWORD">
       <value>
         <option name="FOREGROUND" value="93c763" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.LOCAL_VARIABLE">
@@ -577,13 +552,11 @@
     <option name="JS.STRING">
       <value>
         <option name="FOREGROUND" value="ec7600" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="678cb1" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JSP_ATTRIBUTE_NAME">
@@ -599,13 +572,11 @@
     <option name="JSP_DIRECTIVE_NAME">
       <value>
         <option name="FOREGROUND" value="3f91d4" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="Keyword">
       <value>
         <option name="FOREGROUND" value="95e2ff" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
@@ -627,13 +598,11 @@
     <option name="List/map to object conversion">
       <value>
         <option name="FOREGROUND" value="3f91d4" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffde3f" />
-        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -672,7 +641,6 @@
     <option name="PHP_TAG">
       <value>
         <option name="FOREGROUND" value="d955c1" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PHP_VAR">
@@ -686,26 +654,22 @@
     <option name="PROPERTIES.KEY">
       <value>
         <option name="FOREGROUND" value="91add2" />
-        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="PROPERTIES.VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="678cb1" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="QL_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="3f91d4" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="QL_ENTITY">
       <value>
         <option name="FOREGROUND" value="3f91d4" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="QL_FUNCTION">
@@ -717,13 +681,11 @@
     <option name="QL_ID_VARIABLE">
       <value>
         <option name="FOREGROUND" value="4ba878" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="QL_KEYWORD">
       <value>
         <option name="FOREGROUND" value="56d1ff" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="QL_NUMBER">
@@ -745,31 +707,26 @@
     <option name="REGEXP.CHAR_CLASS">
       <value>
         <option name="FOREGROUND" value="b612d0" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="REGEXP.ESC_CHARACTER">
       <value>
         <option name="FOREGROUND" value="b612d0" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="REGEXP.META">
       <value>
         <option name="FOREGROUND" value="ffb9e4" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="REGEXP.QUOTE_CHARACTER">
       <value>
         <option name="FOREGROUND" value="ab10ca" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="REGEXP.REDUNDANT_ESCAPE">
       <value>
         <option name="FOREGROUND" value="b612d0" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="SCOPE_KEY_All">
@@ -808,7 +765,6 @@
     <option name="SQL_KEYWORD">
       <value>
         <option name="FOREGROUND" value="56d1ff" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="SQL_LOCAL_ALIAS">
@@ -835,13 +791,11 @@
     <option name="SQL_SCHEMA">
       <value>
         <option name="FOREGROUND" value="3f91d4" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="SQL_STRING">
       <value>
         <option name="FOREGROUND" value="ec7600" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="SQL_TABLE">
@@ -888,19 +842,16 @@
     <option name="String">
       <value>
         <option name="FOREGROUND" value="ec7600" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="String &quot;...&quot;">
       <value>
         <option name="FOREGROUND" value="63ab6f" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="String '...'">
       <value>
         <option name="FOREGROUND" value="63ab6f" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="TEXT">
@@ -919,7 +870,7 @@
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ff56ae" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="ff" />
       </value>
     </option>
@@ -943,7 +894,6 @@
     <option name="Valid string escape">
       <value>
         <option name="FOREGROUND" value="678cb1" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="Variable declaration, e.g. a=1">
@@ -954,13 +904,11 @@
     <option name="Variable use $a">
       <value>
         <option name="FOREGROUND" value="feca72" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="Variable use of built-in ($PATH, ...)">
       <value>
         <option name="FOREGROUND" value="ffd967" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
@@ -1001,7 +949,6 @@
     <option name="XML_NS_PREFIX">
       <value>
         <option name="FOREGROUND" value="2ba434" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="XML_TAG">
@@ -1020,7 +967,6 @@
     <option name="YAML_SCALAR_KEY">
       <value>
         <option name="FOREGROUND" value="5a87e8" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
   </attributes>
