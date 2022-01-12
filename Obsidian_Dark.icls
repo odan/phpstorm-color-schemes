@@ -1,10 +1,10 @@
-<scheme name="Obsidian Dark" version="4" parent_scheme="Default">
+<scheme name="Obsidian Dark" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2022-01-02T12:42:13</property>
+    <property name="created">2022-01-12T10:48:13</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.2.4.0.0</property>
-    <property name="modified">2022-01-02T12:42:20</property>
+    <property name="modified">2022-01-12T10:48:24</property>
     <property name="originalScheme">Obsidian Dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Liberation Mono" />
@@ -238,7 +238,6 @@
     <option name="DEFAULT_STRING">
       <value>
         <option name="FOREGROUND" value="ec7600" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -908,7 +907,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="e4e0df" />
-        <option name="BACKGROUND" value="11151a" />
+        <option name="BACKGROUND" value="282c34" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">

@@ -1,6 +1,6 @@
 # PhphStorm Color Themes
 
-## Blue Light Theme
+## Science Blue Light
 
 Minimalistic light colour scheme for PhpStorm.
 
@@ -18,17 +18,22 @@ Inspired by `One Dark Vivid` and Visual Studio Code `One Dark Pro Darker`.
 
 **PHP**
 
-![image](https://user-images.githubusercontent.com/781074/147878924-cfd42c2a-f2e7-48ee-ba58-ce185bdb526a.png)
+![image](https://user-images.githubusercontent.com/781074/149113245-24ec7aaa-804e-4474-9c99-7dfd429e7aeb.png)
 
 **HTML**
 
-![image](https://user-images.githubusercontent.com/781074/147879093-5e5240a6-3eba-40d6-ab7e-8fcbbfd71b90.png)
+![image](https://user-images.githubusercontent.com/781074/149113981-8e7e12ea-5158-4f9c-9a75-7e2e1645399d.png)
 
 ## Obsidian Dark
 
 **PHP**
 
-![image](https://user-images.githubusercontent.com/781074/147874173-cfb61cd7-2f9e-4b8b-b202-1848ec770ce5.png)
+![image](https://user-images.githubusercontent.com/781074/149114719-d77e0639-3200-4287-81b9-9aa56a9c79a3.png)
+
+**HTML**
+
+![image](https://user-images.githubusercontent.com/781074/149115138-65d85efa-fe50-401a-82d8-75c40cdbf489.png)
+
 
 ## Installation
 
