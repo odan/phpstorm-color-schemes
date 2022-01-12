@@ -32,7 +32,7 @@ Inspired by `One Dark Vivid` and Visual Studio Code `One Dark Pro Darker`.
 
 **HTML**
 
-![image](https://user-images.githubusercontent.com/781074/149115138-65d85efa-fe50-401a-82d8-75c40cdbf489.png)
+![image](https://user-images.githubusercontent.com/781074/149133914-e481c0eb-502e-4d12-b332-c39915aab1ee.png)
 
 
 ## Installation
