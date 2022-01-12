@@ -28,11 +28,10 @@ Inspired by `One Dark Vivid` and Visual Studio Code `One Dark Pro Darker`.
 
 **PHP**
 
-![image](https://user-images.githubusercontent.com/781074/149114719-d77e0639-3200-4287-81b9-9aa56a9c79a3.png)
-
+![image](https://user-images.githubusercontent.com/781074/149134686-931a4405-f746-4544-b001-898136ca03b1.png)
 **HTML**
 
-![image](https://user-images.githubusercontent.com/781074/149133914-e481c0eb-502e-4d12-b332-c39915aab1ee.png)
+![image](https://user-images.githubusercontent.com/781074/149134726-718db77b-e75a-4603-ad7d-eddec392c166.png)
 
 
 ## Installation
