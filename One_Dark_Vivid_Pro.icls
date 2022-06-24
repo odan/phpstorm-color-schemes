@@ -1,9 +1,9 @@
 <scheme name="One Dark Vivid Pro" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2022-01-11T15:32:21</property>
+    <property name="created">2022-06-24T10:45:19</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2021.2.4.0.0</property>
-    <property name="modified">2022-01-11T15:32:28</property>
+    <property name="ideVersion">2022.1.2.0.0</property>
+    <property name="modified">2022-06-24T10:45:27</property>
     <property name="originalScheme">One Dark Vivid Pro</property>
   </metaInfo>
   <colors>
@@ -182,7 +182,7 @@
         <option name="FOREGROUND" value="d55fde" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="JS.GLOBAL_VARIABLE" />
+    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="" />
     <option name="COFFEESCRIPT.HEREGEX_CONTENT">
       <value>
         <option name="FOREGROUND" value="d19a66" />
@@ -1486,7 +1486,10 @@
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="bbbbbb" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
     </option>
     <option name="OC.CLASS_REFERENCE">
       <value>
